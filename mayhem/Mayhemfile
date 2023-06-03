@@ -1,0 +1,5 @@
+project: hiddendesktop
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
